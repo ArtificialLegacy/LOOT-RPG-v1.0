@@ -21,7 +21,7 @@ stat
 - player stats are bottom left, in order: hp,mana,damage,dodge,crit,magicpow,healpow > ice,fire,storm,shadow,nature,blood,lifesteal
 - bosses can cast NERF skills, which reduce stat to 0, try not to cast icebolt when boss casts Nerf ice dmg on you!
 
-I was a bit lazy on some parts, but that's msotly because I made this game for myself. The only thing missing is probably balance,
+I was a bit lazy on some parts, but that's mostly because I made this game for myself. The only thing missing is probably balance,
 i fixed the balance issue by making players choose boss level, so if it's too easy, you can always try fighting stronger bosses!
 
 
